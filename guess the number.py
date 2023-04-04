@@ -1,0 +1,4 @@
+import pymodule
+
+pymodule.randomNumber()
+
